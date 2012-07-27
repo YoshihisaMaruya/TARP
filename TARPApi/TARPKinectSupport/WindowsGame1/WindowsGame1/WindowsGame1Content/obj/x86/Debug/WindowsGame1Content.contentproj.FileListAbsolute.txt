@@ -1,0 +1,1 @@
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1Content\obj\x86\Debug\ResolveAssemblyReference.cache

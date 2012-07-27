@@ -1,0 +1,6 @@
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.exe
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1\bin\x86\Debug\WindowsGame1.pdb
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.exe
+C:\workspace\TARP\TARPApi\TARPKinectSupport\WindowsGame1\WindowsGame1\WindowsGame1\obj\x86\Debug\WindowsGame1.pdb
