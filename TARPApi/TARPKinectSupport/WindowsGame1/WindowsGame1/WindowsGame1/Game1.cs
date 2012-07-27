@@ -8,11 +8,17 @@ using Microsoft.Xna.Framework.GamerServices;
 using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Input;
 using Microsoft.Xna.Framework.Media;
+<<<<<<< HEAD
 using TARPKinectSupport;
 
 namespace WindowsGame1
 {
 
+=======
+
+namespace WindowsGame1
+{
+>>>>>>> 0da9be2c3c213dc67f67aafa2f3c388231b189d4
     /// <summary>
     /// This is the main type for your game
     /// </summary>
@@ -20,8 +26,11 @@ namespace WindowsGame1
     {
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
+<<<<<<< HEAD
         private TARPKinectHelper tarpKinectHelper;
         private KinectImage kinectImage;
+=======
+>>>>>>> 0da9be2c3c213dc67f67aafa2f3c388231b189d4
 
         public Game1()
         {
@@ -37,8 +46,13 @@ namespace WindowsGame1
         /// </summary>
         protected override void Initialize()
         {
+<<<<<<< HEAD
             tarpKinectHelper = new TARPKinectHelper( 1 / 100.0f);
             // TODO: Add your initialization logic here
+=======
+            // TODO: Add your initialization logic here
+
+>>>>>>> 0da9be2c3c213dc67f67aafa2f3c388231b189d4
             base.Initialize();
         }
 
@@ -60,7 +74,10 @@ namespace WindowsGame1
         /// </summary>
         protected override void UnloadContent()
         {
+<<<<<<< HEAD
             this.tarpKinectHelper.Dispose();
+=======
+>>>>>>> 0da9be2c3c213dc67f67aafa2f3c388231b189d4
             // TODO: Unload any non ContentManager content here
         }
 
@@ -87,7 +104,10 @@ namespace WindowsGame1
         protected override void Draw(GameTime gameTime)
         {
             GraphicsDevice.Clear(Color.CornflowerBlue);
+<<<<<<< HEAD
             this.kinectImage = tarpKinectHelper.KinectImage;
+=======
+>>>>>>> 0da9be2c3c213dc67f67aafa2f3c388231b189d4
 
             // TODO: Add your drawing code here
 
